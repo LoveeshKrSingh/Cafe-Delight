@@ -1,0 +1,35 @@
+For this task
+
+I Chooses a Business Type: Cafe
+
+Structure of the Website:
+
+Home: A brief introduction to the business, a hero section with an image, and a clear call-to-action.
+
+About Us: Information about the business, its mission, and the team.
+
+Services/Products: A list or grid of services/products offered.
+
+Contact: A contact form and business location
+
+Basic Layout Plan:
+
+Header: Include a logo and a navigation bar.
+Footer: Include contact details and social media links.
+
+Design:
+
+Useing modern fonts, clean lines, and whitespace.
+Ensure the site is responsive across different screen sizes.
+
+Technology:
+
+HTML: For structure.
+CSS: For layout and design
+JavaScript: For interactivity, such as form validation.
+
+
+
+
+
+
