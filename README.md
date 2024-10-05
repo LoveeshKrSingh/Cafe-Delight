@@ -70,14 +70,8 @@ cafe-delight/
 
 ## Credits
 
-- **Design & Development**: Your Name
+- **Design & Development**: Loveesh 
 - **Date**: October 2024
-
-Feel free to fork this project or use it as a base for your own projects!
 
 ---
 
-If you have any suggestions or issues, feel free to open an issue or submit a pull request.
-```
-
-This `README.md` is designed for a basic informational site and provides an overview of the project, setup instructions, and credits. Adjust the repository link and your name as necessary before publishing it on GitHub.
